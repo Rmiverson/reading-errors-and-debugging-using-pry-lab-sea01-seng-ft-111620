@@ -6,7 +6,7 @@ def snake_it_up(string)
     i = 0
     while i <= 10 do
       "s" + string
-      i +=
+      i += 1
     end
     
     binding.pry
