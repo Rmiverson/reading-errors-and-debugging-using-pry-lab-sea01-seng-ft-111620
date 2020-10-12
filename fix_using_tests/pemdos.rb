@@ -9,9 +9,10 @@ def snake_it_up(string)
       i += 1
     end
     
-    binding.pry
+   
   else
     string
   end
 end
 
+ binding.pry
